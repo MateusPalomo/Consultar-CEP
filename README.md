@@ -3,10 +3,11 @@
 Aplicativo de uma calculadora de IMC criado para disciplina de Programação Mobile.
 
 <p align="center">
-    <img src="C:\Users\User\Pictures\screen1.PNG" height="400"/>
-    <img src="C:\Users\User\Pictures\screen2.PNG" height="400"/>
-    <img src="C:\Users\User\Pictures\screen3.PNG" height="400"/>
-    <img src="C:\Users\User\Pictures\screen4.PNG" height="400"/>
+    <img src="https://github.com/MateusPalomo/Consultar-CEP/blob/master/images/screen1.PNG" height="400"/>
+    <img src="https://github.com/MateusPalomo/Consultar-CEP/blob/master/images/screen2.PNG" height="400"/>
+    <img src="https://github.com/MateusPalomo/Consultar-CEP/blob/master/images/screen3.PNG" height="400"/>
+    <img src="https://github.com/MateusPalomo/Consultar-CEP/blob/master/images/screen4.PNG" height="400"/>
+    <img src="https://github.com/MateusPalomo/Consultar-CEP/blob/master/images/screen5.PNG" height="400"/>
 </p>
 
 ## Desafio para aula
