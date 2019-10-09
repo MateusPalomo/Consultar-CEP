@@ -12,7 +12,7 @@ Aplicativo para consultar CEP através da API do VIA CEP, criado para disciplina
     
 </p>
 
-## Desafio para aula
+## Alguns desafios resolvidos do projeto:
 
 :heavy_check_mark: Criar e usar temas Light e Dart.
 
@@ -25,4 +25,11 @@ Aplicativo para consultar CEP através da API do VIA CEP, criado para disciplina
 :heavy_check_mark: Tratar todas exceções e utilizar um Flushbar para exibir os erros para o usuário.
 
 :heavy_check_mark: Adicionar um IconButton na AppBar para compartilhar o CEP.
+
+## Plugins
+Plugin utilizado neste repositório.
+
+| Plugin | Pub |
+|--------|-----|
+| Wakelock | [![pub package](https://img.shields.io/pub/v/wakelock.svg)](https://pub.dev/packages/wakelock) |
 
