@@ -42,13 +42,13 @@ Plugin utilizado neste repositório.
 ### ViaCEP
 https://viacep.com.br/
 
-Exemplo de uso: https://viacep.com.br/ws/13087330/json/
+Exemplo de uso: https://viacep.com.br/ws/13087440/json/
 ```
 {
-  "cep": "13087-330",
-  "logradouro": "Rua Roberto Teixeira dos Santos",
+  "cep": "13087-440",
+  "logradouro": "Rua das Hortências",
   "complemento": "",
-  "bairro": "Parque Taquaral",
+  "bairro": "Chácara Primavera",
   "localidade": "Campinas",
   "uf": "SP",
   "unidade": "",
