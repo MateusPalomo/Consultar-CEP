@@ -27,7 +27,7 @@ Aplicativo para consultar CEP através da API do VIA CEP, criado para disciplina
 :heavy_check_mark: Adicionar um IconButton na AppBar para compartilhar o CEP.
 
 ## Plugins
-Plugin utilizado neste repositório.
+Plugins utilizados neste repositório.
 
 | Plugin | Pub |
 |--------|-----|
