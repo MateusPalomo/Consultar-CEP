@@ -33,7 +33,7 @@ Plugin utilizado neste repositório.
 |--------|-----|
 | Share plugin | [![pub package](https://img.shields.io/pub/v/share.svg)](https://pub.dev/packages/share) |
 | flushbar |[](https://pub.dev/packages/flushbar) |
-| http | [![pub package]https://img.shields.io/pub/v/http.svg)](https://pub.dev/packages/http) |
+| http | [![pub package](https://img.shields.io/pub/v/http.svg)](https://pub.dev/packages/http) |
 
 
 ## API
