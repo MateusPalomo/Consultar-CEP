@@ -35,5 +35,6 @@ Plugin utilizado neste repositório.
 | flushbar |[](https://pub.dev/packages/flushbar) |
 | http | [![pub package](https://img.shields.io/pub/v/http.svg)](https://pub.dev/packages/http) |
 | dynamic theme |[](https://pub.dev/packages/dynamic_theme#-readme-tab-) |
+| font awesome flutter |[](https://pub.dev/packages/font_awesome_flutter) |
 
 ## API
