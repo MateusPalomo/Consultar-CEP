@@ -31,7 +31,6 @@ Plugin utilizado neste repositório.
 
 | Plugin | Pub |
 |--------|-----|
-
 | Share plugin | [![pub package](https://img.shields.io/pub/v/share.svg)](https://pub.dev/packages/share) |
 
 ## API
