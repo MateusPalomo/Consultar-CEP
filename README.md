@@ -14,11 +14,11 @@ Aplicativo para consultar CEP através da API do VIA CEP, criado para disciplina
 
 ## Alguns desafios resolvidos do projeto:
 
-:heavy_check_mark: Criar e usar temas Light e Dart.
+:heavy_check_mark: Criar e usar temas Light e Dark.
 
 :heavy_check_mark: Criar um IconButton na AppBar para alternar entre os temas.
 
-:heavy_check_mark: Criar um formulário para adicionar todas os campos do JSON.
+:heavy_check_mark: Criar um formulário para adicionar todos os campos do JSON.
 
 :heavy_check_mark: Validar o campo de digitação de CEP.
 
