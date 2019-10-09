@@ -57,5 +57,3 @@ Exemplo de uso: https://viacep.com.br/ws/13087440/json/
 }
 
 ```
-
-
