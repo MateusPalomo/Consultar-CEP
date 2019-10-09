@@ -7,7 +7,7 @@ Aplicativo de uma calculadora de IMC criado para disciplina de Programação Mob
     <img src="https://github.com/MateusPalomo/Consultar-CEP/blob/master/images/screen2.PNG" height="400"/>
     <img src="https://github.com/MateusPalomo/Consultar-CEP/blob/master/images/screen3.PNG" height="400"/>
     <img src="https://github.com/MateusPalomo/Consultar-CEP/blob/master/images/screen4.PNG" height="400"/>
-    <img src="https://media.giphy.com/media/Z9KdG7wGi40oupWKGc/giphy.gif" height="400" />
+    <img align="right" src="https://media.giphy.com/media/Z9KdG7wGi40oupWKGc/giphy.gif" height="400" />
 </p>
 
 ## Desafio para aula
