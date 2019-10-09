@@ -14,12 +14,16 @@ Aplicativo de uma calculadora de IMC criado para disciplina de Programação Mob
 
 ## Desafio para aula
 
-*   Adicionar botões (Toggle ouRadio button) para escolha de gênero ([masculino](https://indicedemassacorporal.com/movel/calculo-imc-masculino.html) / [feminino](https://indicedemassacorporal.com/movel/calculo-imc-feminino.html));
-*   Corrigir o calculo de acordo com o gênero (masculino e feminino);
-*   Criar um classe Pessoa com os atributos (peso, altura e gênero), criar métodos para calcular IMC e classificar;
-*   Refatorar o código do aplicativo para utilizar a classe Pessoa;
-*   Aplicar uma escala de cores para o resultado da classificação do IMC;
-*   Aumentar o texto do resultado do IMC (número) e também colocar em negrito.
+*   Criar e usar temas Light e Dart (para saber mais sobre temas clique aqui, e se você quiser usar um editor de temas clique aqui)
+Criar um IconButton na AppBar para alternar entre os temas (dica: use o plugin dynamic_theme)
+
+Criar um formulário para adicionar todas os campos do JSON (formulários)
+
+Validar o campo de digitação de CEP (validações em flutter)
+
+Tratar todas exceções e utilize Flushbar para exibir os erros para o usuário
+
+Adicionar um IconButton na AppBar para compartilhar o CEP (utilize o plugin share)
 
 ## Licença
 
