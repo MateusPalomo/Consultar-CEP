@@ -1,6 +1,6 @@
-# Calculadora de IMC
+# Consulta de CEP
 
-Aplicativo de uma calculadora de IMC criado para disciplina de Programação Mobile.
+Aplicativo para consultar CEP através da API do VIA CEP, criado para disciplina de Programação Mobile com Flutter.
 
 <p align="center">
     <img src="https://github.com/MateusPalomo/Consultar-CEP/blob/master/images/screen1.PNG" height="400"/>
