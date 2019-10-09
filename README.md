@@ -14,16 +14,17 @@ Aplicativo de uma calculadora de IMC criado para disciplina de Programação Mob
 
 ## Desafio para aula
 
-*   Criar e usar temas Light e Dart (para saber mais sobre temas clique aqui, e se você quiser usar um editor de temas clique aqui)
-Criar um IconButton na AppBar para alternar entre os temas (dica: use o plugin dynamic_theme)
+:heavy_check_mark: Criar e usar temas Light e Dart (para saber mais sobre temas clique aqui, e se você quiser usar um editor de temas clique aqui)
 
-Criar um formulário para adicionar todas os campos do JSON (formulários)
+:heavy_check_mark: Criar um IconButton na AppBar para alternar entre os temas (dica: use o plugin dynamic_theme)
 
-Validar o campo de digitação de CEP (validações em flutter)
+:heavy_check_mark: Criar um formulário para adicionar todas os campos do JSON (formulários)
 
-Tratar todas exceções e utilize Flushbar para exibir os erros para o usuário
+:heavy_check_mark: Validar o campo de digitação de CEP (validações em flutter)
 
-Adicionar um IconButton na AppBar para compartilhar o CEP (utilize o plugin share)
+:heavy_check_mark: Tratar todas exceções e utilize Flushbar para exibir os erros para o usuário
+
+:heavy_check_mark: Adicionar um IconButton na AppBar para compartilhar o CEP (utilize o plugin share)
 
 ## Licença
 
